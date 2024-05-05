@@ -287,8 +287,8 @@ const SearchBar = () => {
                       <Col xs="2">
                         <Button
                           variant="outline-light"
-                          className="btn-sm rounded-pill"
-                          onClick={handleShow3}
+                          className="btnU rounded-pill btn-sm "
+                          onClick={handleShow2}
                         >
                           Ubicación <i class="bi bi-caret-down-fill"></i>
                         </Button>
