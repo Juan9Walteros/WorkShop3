@@ -36,3 +36,183 @@
     transform: rotate(360deg);
   }
 }
+
+.NavBarPeakU{
+  max-width: 100%;
+  background-color: #282c34;
+
+}
+
+.btnNavBar{
+  position: relative;
+  display: inline-block;
+  padding: 0%;
+  border: 0%;
+  border: 1px solid #6c757d  !important;
+}
+
+.offcanvasT{
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+}
+
+.offCanvas1{
+  width: 320px !important;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.bi-bell{
+  font-size: 125%;
+}
+.b-sidebar-auter{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 0;
+  overflow:visible;
+  z-index: 1035;
+}
+.b-sidebar, .b-sidebar-right{
+  left: auto;
+  right: 0;
+}
+
+
+.div1{
+  justify-content: space-between;
+}
+
+.user1{
+  display: block;
+  flex-direction: row;
+  background-color: #343a40;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+}
+.bi-person{
+  font-size: 17px;
+}
+
+.btnUser{
+  display: flex;
+  border: none;
+  
+}
+.txtUser{
+  font-size: 9px;
+}
+.UserD{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  max-height: 100%;
+}
+.UserD2{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-content: flex-start ;
+  align-items: start;
+  margin-left: .25rem;
+}
+
+.a{
+  font-size: 9px;
+}
+
+.b{
+  display: flex;
+  font-size: 12px;
+  flex-direction: row;
+}
+
+.spa2{
+  margin-left: .25rem;
+  font-size: 9px;
+}
+
+.bi-gem{
+  font-size: 9px;
+}
+
+.NavBarSearch{
+  background-color: #3a8ced;
+}
+
+.Cont2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.bi-search{
+  font-size: 125%;
+}
+
+.form1{
+  border-radius: .25rem;
+}
+
+
+.modalT{
+
+  text-align: center;
+  width: 100%;
+  font-weight: 700 !important;
+}
+
+.ModalF{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.btnF2{
+  margin-left: 1.25rem;
+  background-color:  #3a8ced !important;
+  color: aliceblue !important;
+}
+
+.Cont3{
+  background-color: #343a40;
+  height: 1000px;
+  float: right;
+
+}
+.Cont4{
+  background-color: #3a8ced;
+  height: 100px;
+  width: 1350px;
+  margin-top: calc(0.7%);
+}
+.CardImg{
+  width: 10px;
+  height: 70px;
+}
+.card{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: .25rem;
+}
+
+.btnCard4{
+
+  border-radius: 10px !important;
+  text-align: center !important;
+  height: 21px;
+  font-size: 0.8rem!important;
+  text-align: center !important;
+  background-color: transparent !important;
+}
