@@ -108,12 +108,14 @@ const NavBarPeakU = () => {
                     </div>
                   </Button>
                   <Dropdown.Menu>
-                    <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-                    <Dropdown.Item href="#/action-2">
-                      Another action
-                    </Dropdown.Item>
-                    <Dropdown.Item href="#/action-3">
-                      Something else
+                    <Dropdown.Item href="#/action-1">Redimir</Dropdown.Item>
+                    <Dropdown.Item href="#/action-2">Tu CV</Dropdown.Item>
+                    <Dropdown.Item href="#/action-4">Ajustes</Dropdown.Item>
+                    <Dropdown.Item href="#/action-5">
+                      Cambiar contraseña
+                      <Dropdown.Item href="#/action-6">
+                        Cerrar sesión
+                      </Dropdown.Item>
                     </Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
